@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 238" width="320" height="238" role="img" aria-label="ScreenTether. Your Android phone as a window on Windows. Local only: no account, no cloud. Go, Kotlin, 13 specs. Opens the ScreenTether site.">
+<rect x="0.5" y="0.5" width="319" height="237" rx="10" fill="#07080a" stroke="#242728"/>
+<rect x="24" y="26" width="28" height="3" fill="#6C84F0"/>
+<circle cx="288" cy="34" r="13" fill="none" stroke="#6C84F0" stroke-opacity="0.55"/>
+<path d="M283 39 L293 29 M285 29 H293 V37" fill="none" stroke="#6C84F0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24" y="72" fill="#f4f4f6" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600">ScreenTether</text>
+<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#9c9c9d">
+<text x="24" y="100">Your Android phone as a window</text><text x="24" y="120">on Windows. Local only: no</text><text x="24" y="140">account, no cloud.</text>
+</g>
+<text x="24" y="164" fill="#6a6b6c" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11.5">Go · Kotlin · 13 specs</text>
+<line x1="24" y1="182" x2="296" y2="182" stroke="#1b1d20"/>
+<text x="24" y="210" fill="#6C84F0" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Visit the product site</text>
+<path d="M285 210 H296 M291 205 L296 210 L291 215" fill="none" stroke="#6C84F0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

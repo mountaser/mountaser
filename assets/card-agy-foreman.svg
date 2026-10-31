@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 238" width="320" height="238" role="img" aria-label="agy-foreman. Runs each plan step in its own git worktree and merges only what passes the tests. TypeScript, MCP, Vitest. Opens the repository on GitHub.">
+<rect x="0.5" y="0.5" width="319" height="237" rx="10" fill="#07080a" stroke="#242728"/>
+<rect x="24" y="26" width="28" height="3" fill="#24A38A"/>
+<circle cx="288" cy="34" r="13" fill="none" stroke="#24A38A" stroke-opacity="0.55"/>
+<path d="M283 39 L293 29 M285 29 H293 V37" fill="none" stroke="#24A38A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24" y="72" fill="#f4f4f6" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600">agy-foreman</text>
+<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#9c9c9d">
+<text x="24" y="100">Runs each plan step in its own</text><text x="24" y="120">git worktree and merges only</text><text x="24" y="140">what passes the tests.</text>
+</g>
+<text x="24" y="164" fill="#6a6b6c" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11.5">TypeScript · MCP · Vitest</text>
+<line x1="24" y1="182" x2="296" y2="182" stroke="#1b1d20"/>
+<text x="24" y="210" fill="#24A38A" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">View on GitHub</text>
+<path d="M285 210 H296 M291 205 L296 210 L291 215" fill="none" stroke="#24A38A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

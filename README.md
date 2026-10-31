@@ -2,7 +2,7 @@
 
 <img src="assets/numbers.svg" alt="265,829 downloads of my builds. 8 phones, Android 7.1 to 12. 164 kernel builds, 2017 to 2020. XDA Recognized Developer since 2018." width="100%">
 
-<img src="assets/skills.svg?v=3" alt="What I work with: Android ROMs, device trees and vendor blobs; Linux kernels for Qualcomm; C, C++, Go, Kotlin, TypeScript, Shell; Linux servers, Docker, nginx, WireGuard; git, GitHub Actions, MCP." width="100%">
+<img src="assets/skills.svg?v=4" alt="What I work with: Android ROMs, device trees and vendor blobs; Linux kernels for Qualcomm; C, C++, Go, Kotlin, TypeScript, Shell; Linux servers, Docker, nginx, WireGuard; git, GitHub Actions, MCP." width="100%">
 
 <img src="assets/now-header.svg" alt="Now: what I am building." width="100%">
 

@@ -1,27 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" role="img" aria-label="What I work with. Android: AOSP and custom ROMs, device trees, vendor blobs, SELinux sepolicy, Treble and GSI. Kernel: Linux 3.4 and 4.9 for Qualcomm, defconfigs, CPU and GPU governors, linux-stable and CAF merges, AnyKernel3 flashers, build scripts. Languages: C, C++, Go, Kotlin, TypeScript, Shell. Systems: Linux server, Docker, nginx and Let's Encrypt, WireGuard and Tailscale, Cloudflare DNS, backups with rclone. Tooling: git and repo, GitHub Actions and GHCR, Vitest, MCP, specs and plans before code.">
-<rect x="0.5" y="0.5" width="999" height="519" rx="10" fill="#07080a" stroke="#1b1d20"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 442" width="1000" height="442" role="img" aria-label="What I work with. Android: AOSP and custom ROMs, device trees, vendor blobs, SELinux sepolicy, Treble and GSI. Kernel: Linux 3.4 and 4.9, defconfigs, CPU and GPU governors, linux-stable and CAF merges, AnyKernel3 flashers. Languages: C, C++, Go, Kotlin, TypeScript, Shell. Systems: Linux server, Docker, nginx and Let's Encrypt, WireGuard and Tailscale, Cloudflare DNS. Tooling: git and repo, GitHub Actions and GHCR, Vitest, MCP, specs and plans before code.">
+<rect x="0.5" y="0.5" width="999" height="441" rx="10" fill="#07080a" stroke="#1b1d20"/>
 <text x="28" y="34" fill="#6a6b6c" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.2">FIG_03 · WHAT I WORK WITH</text>
-<g stroke="#1b1d20"><line x1="28" y1="56" x2="972" y2="56"/><line x1="28" y1="152" x2="972" y2="152"/><line x1="28" y1="248" x2="972" y2="248"/><line x1="28" y1="314" x2="972" y2="314"/><line x1="28" y1="410" x2="972" y2="410"/></g>
+<g stroke="#1b1d20"><line x1="28" y1="56" x2="972" y2="56"/><line x1="28" y1="132" x2="972" y2="132"/><line x1="28" y1="208" x2="972" y2="208"/><line x1="28" y1="284" x2="972" y2="284"/><line x1="28" y1="360" x2="972" y2="360"/></g>
 <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1">
-<text x="28" y="92" fill="#5b8cff">ANDROID</text>
-<text x="28" y="188" fill="#24A38A">KERNEL</text>
-<text x="28" y="284" fill="#B9892C">LANGUAGES</text>
-<text x="28" y="350" fill="#A98BEA">SYSTEMS</text>
-<text x="28" y="446" fill="#C0607E">TOOLING</text>
+<text x="28" y="99" fill="#5b8cff">ANDROID</text>
+<text x="28" y="175" fill="#24A38A">KERNEL</text>
+<text x="28" y="251" fill="#B9892C">LANGUAGES</text>
+<text x="28" y="327" fill="#A98BEA">SYSTEMS</text>
+<text x="28" y="403" fill="#C0607E">TOOLING</text>
 </g>
-<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#cdcdcd">
-<text x="190" y="92">AOSP and custom ROMs</text><text x="470" y="92">Device trees</text><text x="750" y="92">Vendor blobs</text>
-<text x="190" y="122">SELinux sepolicy</text><text x="470" y="122">Treble and GSI</text>
-
-<text x="190" y="188">Linux 3.4 and 4.9 for Qualcomm</text><text x="470" y="188">Defconfigs</text><text x="750" y="188">CPU and GPU governors</text>
-<text x="190" y="218">linux-stable and CAF merges</text><text x="470" y="218">AnyKernel3 flashers</text><text x="750" y="218">Build scripts</text>
-
-<text x="190" y="284">C</text><text x="320" y="284">C++</text><text x="450" y="284">Go</text><text x="580" y="284">Kotlin</text><text x="710" y="284">TypeScript</text><text x="840" y="284">Shell</text>
-
-<text x="190" y="350">Linux server</text><text x="470" y="350">Docker</text><text x="750" y="350">nginx and Let's Encrypt</text>
-<text x="190" y="380">WireGuard and Tailscale</text><text x="470" y="380">Cloudflare DNS</text><text x="750" y="380">Backups with rclone</text>
-
-<text x="190" y="446">git and repo</text><text x="470" y="446">GitHub Actions and GHCR</text><text x="750" y="446">Vitest</text>
-<text x="190" y="476">MCP</text><text x="470" y="476">Specs and plans before code</text>
+<g fill="#0d0e10" stroke="#242728">
+<rect x="170.5" y="78.5" width="160" height="32" rx="7"/><rect x="338.5" y="78.5" width="104" height="32" rx="7"/><rect x="450.5" y="78.5" width="104" height="32" rx="7"/><rect x="562.5" y="78.5" width="132" height="32" rx="7"/><rect x="702.5" y="78.5" width="118" height="32" rx="7"/>
+<rect x="170.5" y="154.5" width="139" height="32" rx="7"/><rect x="317.5" y="154.5" width="90" height="32" rx="7"/><rect x="415.5" y="154.5" width="167" height="32" rx="7"/><rect x="590.5" y="154.5" width="209" height="32" rx="7"/><rect x="807.5" y="154.5" width="153" height="32" rx="7"/>
+<rect x="170.5" y="230.5" width="44" height="32" rx="7"/><rect x="222.5" y="230.5" width="44" height="32" rx="7"/><rect x="274.5" y="230.5" width="44" height="32" rx="7"/><rect x="326.5" y="230.5" width="62" height="32" rx="7"/><rect x="396.5" y="230.5" width="90" height="32" rx="7"/><rect x="494.5" y="230.5" width="55" height="32" rx="7"/>
+<rect x="170.5" y="306.5" width="104" height="32" rx="7"/><rect x="282.5" y="306.5" width="62" height="32" rx="7"/><rect x="352.5" y="306.5" width="181" height="32" rx="7"/><rect x="541.5" y="306.5" width="181" height="32" rx="7"/><rect x="730.5" y="306.5" width="118" height="32" rx="7"/>
+<rect x="170.5" y="382.5" width="104" height="32" rx="7"/><rect x="282.5" y="382.5" width="181" height="32" rx="7"/><rect x="471.5" y="382.5" width="62" height="32" rx="7"/><rect x="541.5" y="382.5" width="44" height="32" rx="7"/><rect x="593.5" y="382.5" width="209" height="32" rx="7"/>
+</g>
+<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#cdcdcd" text-anchor="middle" dominant-baseline="central">
+<text x="250" y="95">AOSP and custom ROMs</text><text x="390" y="95">Device trees</text><text x="502" y="95">Vendor blobs</text><text x="628" y="95">SELinux sepolicy</text><text x="761" y="95">Treble and GSI</text>
+<text x="240" y="171">Linux 3.4 and 4.9</text><text x="362" y="171">Defconfigs</text><text x="499" y="171">CPU and GPU governors</text><text x="695" y="171">linux-stable and CAF merges</text><text x="884" y="171">AnyKernel3 flashers</text>
+<text x="193" y="247">C</text><text x="245" y="247">C++</text><text x="297" y="247">Go</text><text x="357" y="247">Kotlin</text><text x="441" y="247">TypeScript</text><text x="522" y="247">Shell</text>
+<text x="222" y="323">Linux server</text><text x="313" y="323">Docker</text><text x="443" y="323">nginx and Let's Encrypt</text><text x="632" y="323">WireGuard and Tailscale</text><text x="789" y="323">Cloudflare DNS</text>
+<text x="222" y="399">git and repo</text><text x="373" y="399">GitHub Actions and GHCR</text><text x="502" y="399">Vitest</text><text x="563" y="399">MCP</text><text x="698" y="399">Specs and plans before code</text>
 </g>
 </svg>

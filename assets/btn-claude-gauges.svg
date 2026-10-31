@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 156 38" width="156" height="38" role="img" aria-label="claude-gauges">
+<rect x="0.5" y="0.5" width="155" height="37" rx="9" fill="#07080a" stroke="#242728"/>
+<circle cx="19" cy="19" r="4" fill="#B9892C"/>
+<text x="91" y="19" fill="#f4f4f6" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">claude-gauges ↗</text>
+</svg>

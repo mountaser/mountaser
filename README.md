@@ -6,11 +6,10 @@
 
 <img src="assets/now.svg" alt="Now: ScreenTether, agy-foreman and claude-gauges." width="100%">
 
-**[ScreenTether](https://screentether.mountaserhalak.com)** · **[agy-foreman](https://github.com/mountaser/agy-foreman)** · **[claude-gauges](https://github.com/mountaser/claude-gauges)**
+<a href="https://screentether.mountaserhalak.com"><img src="assets/btn-screentether.svg" alt="ScreenTether" height="38"></a>&nbsp;<a href="https://github.com/mountaser/agy-foreman"><img src="assets/btn-agy-foreman.svg" alt="agy-foreman" height="38"></a>&nbsp;<a href="https://github.com/mountaser/claude-gauges"><img src="assets/btn-claude-gauges.svg" alt="claude-gauges" height="38"></a>
 
 <img src="assets/before.svg" alt="Before, 2016 to 2020: Resurrection Remix, Havoc OS and Moun Kernel for eight phones." width="100%">
 
-**Open to Werkstudent roles in the Stuttgart area now. Praxissemester from WS 2027/28.**
-*Ich suche eine Werkstudentenstelle in Stuttgart und Umgebung.*
+<img src="assets/availability.svg" alt="Open to Werkstudent roles in the Stuttgart area now. Praxissemester from WS 2027/28. Ich suche eine Werkstudentenstelle in Stuttgart und Umgebung." width="100%">
 
-[mountaserhalak.com](https://mountaserhalak.com) · [LinkedIn](https://www.linkedin.com/in/mountaserhalak/) · [XING](https://www.xing.com/profile/Mountaser_Halak/) · [XDA](https://xdaforums.com/m/mountaser-halak.7210959/) · mountaser@mountaserhalak.com
+<a href="https://mountaserhalak.com"><img src="assets/btn-website.svg" alt="mountaserhalak.com" height="38"></a>&nbsp;<a href="https://www.linkedin.com/in/mountaserhalak/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38"></a>&nbsp;<a href="https://www.xing.com/profile/Mountaser_Halak/"><img src="assets/btn-xing.svg" alt="XING" height="38"></a>&nbsp;<a href="https://xdaforums.com/m/mountaser-halak.7210959/"><img src="assets/btn-xda.svg" alt="XDA Developers" height="38"></a>&nbsp;<a href="mailto:mountaser@mountaserhalak.com"><img src="assets/btn-email.svg" alt="mountaser@mountaserhalak.com" height="38"></a>

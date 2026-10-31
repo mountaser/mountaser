@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 384" width="1000" height="384" role="img" aria-label="What I work with. Android: AOSP and custom ROMs, device trees, vendor blobs, SELinux sepolicy, Treble and GSI. Kernel: Linux 3.4 and 4.9 for Qualcomm, defconfigs, CPU and GPU governors, linux-stable and CAF merges, AnyKernel3 flashers, build scripts. Languages: C, C++, Go, Kotlin, TypeScript, Shell. Systems: Linux server, Docker, nginx reverse proxy and Let's Encrypt, WireGuard and Tailscale, Cloudflare DNS, backups with rclone. Tooling: git and repo, GitHub Actions and GHCR, Vitest, MCP, specs and plans before code.">
+<rect x="0.5" y="0.5" width="999" height="383" rx="10" fill="#07080a" stroke="#1b1d20"/>
+<text x="28" y="34" fill="#6a6b6c" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.2">FIG_03 · WHAT I WORK WITH</text>
+<g stroke="#1b1d20"><line x1="28" y1="52" x2="972" y2="52"/><line x1="28" y1="118" x2="972" y2="118"/><line x1="28" y1="184" x2="972" y2="184"/><line x1="28" y1="228" x2="972" y2="228"/><line x1="28" y1="294" x2="972" y2="294"/></g>
+<g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1">
+<text x="28" y="80" fill="#5b8cff">ANDROID</text>
+<text x="28" y="146" fill="#24A38A">KERNEL</text>
+<text x="28" y="212" fill="#B9892C">LANGUAGES</text>
+<text x="28" y="256" fill="#A98BEA">SYSTEMS</text>
+<text x="28" y="322" fill="#C0607E">TOOLING</text>
+</g>
+<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#cdcdcd">
+<text x="190" y="80">AOSP and custom ROMs  ·  Device trees  ·  Vendor blobs</text>
+<text x="190" y="102">SELinux sepolicy  ·  Treble and GSI</text>
+<text x="190" y="146">Linux 3.4 and 4.9 for Qualcomm  ·  Defconfigs  ·  CPU and GPU governors</text>
+<text x="190" y="168">linux-stable and CAF merges  ·  AnyKernel3 flashers  ·  Build scripts</text>
+<text x="190" y="212">C  ·  C++  ·  Go  ·  Kotlin  ·  TypeScript  ·  Shell</text>
+<text x="190" y="256">Linux server  ·  Docker  ·  nginx reverse proxy and Let's Encrypt</text>
+<text x="190" y="278">WireGuard and Tailscale  ·  Cloudflare DNS  ·  Backups with rclone</text>
+<text x="190" y="322">git and repo  ·  GitHub Actions and GHCR  ·  Vitest  ·  MCP</text>
+<text x="190" y="344">Specs and plans before code</text>
+</g>
+</svg>

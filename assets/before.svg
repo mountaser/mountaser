@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Before, 2016 to 2020. 2016 to 2019: Resurrection Remix, official maintainer for the LG G3, Galaxy Note 3 and Mi A1, 106,689 downloads for the Mi A1. 2018 to 2020: Havoc OS for the Mi A1 and Mi 9T plus a GSI that boots on any Treble phone, 94,683 downloads. 2017 to 2020: Moun Kernel for the LG G3 and Mi A1, 21,042 downloads on GitHub.">
+<rect x="0.5" y="0.5" width="999" height="249" rx="10" fill="#07080a" stroke="#1b1d20"/>
+<text x="28" y="34" fill="#6a6b6c" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.2">FIG_05 · BEFORE, 2016 TO 2020</text>
+<g stroke="#1b1d20"><line x1="28" y1="52" x2="972" y2="52"/><line x1="28" y1="114" x2="972" y2="114"/><line x1="28" y1="176" x2="972" y2="176"/></g>
+<g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13">
+<text x="28" y="80" fill="#C0607E">2016 to 2019</text>
+<text x="28" y="142" fill="#B9892C">2018 to 2020</text>
+<text x="28" y="204" fill="#24A38A">2017 to 2020</text>
+</g>
+<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#cdcdcd">
+<text x="190" y="78">Resurrection Remix. Official maintainer for</text><text x="190" y="100">the LG G3, Galaxy Note 3 and Mi A1.</text>
+<text x="190" y="140">Havoc OS for the Mi A1 and Mi 9T, plus</text><text x="190" y="162">a GSI that boots on any Treble phone.</text>
+<text x="190" y="202">Moun Kernel for the LG G3 and Mi A1. Linux and</text><text x="190" y="224">Qualcomm updates merged, built with my own scripts.</text>
+</g>
+<g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" fill="#9c9c9d" text-anchor="end">
+<text x="972" y="78">106,689 downloads, Mi A1</text>
+<text x="972" y="140">94,683 downloads</text>
+<text x="972" y="202">21,042 downloads</text>
+</g>
+</svg>

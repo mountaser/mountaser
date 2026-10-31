@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Numbers: 265,829 downloads of my builds. 8 phones, Android 7.1 to 12. 164 kernel builds, 2017 to 2020. XDA Recognized Developer since 2018.">
+<rect x="0.5" y="0.5" width="999" height="149" rx="10" fill="#07080a" stroke="#1b1d20"/>
+<text x="28" y="34" fill="#6a6b6c" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.2">FIG_02 · NUMBERS</text>
+<g stroke="#1b1d20"><line x1="270" y1="54" x2="270" y2="130"/><line x1="500" y1="54" x2="500" y2="130"/><line x1="745" y1="54" x2="745" y2="130"/></g>
+<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" fill="#f4f4f6" font-size="42" font-weight="600" letter-spacing="-1.5">
+<text x="28" y="96">265,829</text><text x="294" y="96">8</text><text x="524" y="96">164</text><text x="769" y="96">2018</text>
+</g>
+<g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" fill="#9c9c9d" font-size="15">
+<text x="28" y="122">downloads of my builds</text><text x="294" y="122">phones, Android 7.1 to 12</text><text x="524" y="122">kernel builds, 2017 to 2020</text><text x="769" y="122">XDA Recognized Developer</text>
+</g>
+</svg>
